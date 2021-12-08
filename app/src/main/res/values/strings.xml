@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">TurbacoTour</string>
+    <string name="nombre_poi">IglesiaSantaCatalinaDeAlejandria</string>
+    <string name="nombrePoi">Iglesia Santa Catalina De Alejandria</string>
+    <string name="description_label">Descripción:</string>
+    <string name="description">Monumento de Santa Catalina de Alejandría es una de las iglesias más antiguas del departamento de Bolívar. Fue construida en 1738, para la época de la conquista, y en su interior se gestaron incluso importantes diálogos de paz entre el gobierno de España y esclavos que clamaban por su libertad.</string>
+    <string name="temperature_label">Temperatura:</string>
+    <string name="temperture">32°C</string>
+    <string name="rating_label">Puntuación:</string>
+    <string name="puntuacion">4.3</string>
+
 </resources>
